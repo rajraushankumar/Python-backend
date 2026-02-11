@@ -1,0 +1,42 @@
+[
+    {
+        "first_name": "Rajraushan ",
+        "middle_name": "Singh",
+        "last_name": "Rajput",
+        "phone": "91-1234567890",
+        "email": "raj1234@gmail.com",
+        "password": "1234567890",
+        "registration_date": "11-02-2026",
+        "registration_time": "15:29:37"
+    },
+    {
+        "first_name": "Raunak",
+        "middle_name": "Singh",
+        "last_name": "Kumar",
+        "phone": "91-1234567899",
+        "email": "raunak1234@gmail.com",
+        "password": "222342424",
+        "registration_date": "11-02-2026",
+        "registration_time": "15:30:58"
+    },
+    {
+        "first_name": "Md Asgar",
+        "middle_name": "",
+        "last_name": "Ahmed",
+        "phone": "91-121212121212",
+        "email": "Asgar360@gmail.com",
+        "password": "432cf345f",
+        "registration_date": "11-02-2026",
+        "registration_time": "15:32:55"
+    },
+    {
+        "first_name": "Aman",
+        "middle_name": "",
+        "last_name": "Kumar",
+        "phone": "91-6536354635",
+        "email": "Aman360@gmail.com",
+        "password": "hseheu323",
+        "registration_date": "11-02-2026",
+        "registration_time": "15:33:41"
+    }
+]

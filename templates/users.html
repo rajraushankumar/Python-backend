@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Registered Users</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="table-container">
+    <h2>All Registered Users</h2>
+
+    <table>
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Phone</th>
+            <th>Email</th>
+            <th>Password</th>   <!-- 🔥 ADD THIS -->
+            <th>Date</th>
+            <th>Time</th>
+        </tr>
+
+        {% for user in users %}
+        <tr>
+            <td>{{ user["first_name"] }}</td>
+            <td>{{ user["last_name"] }}</td>
+            <td>{{ user["phone"] }}</td>
+            <td>{{ user["email"] }}</td>
+            <td>{{ user["password"] }}</td>   <!-- 🔥 ADD THIS -->
+            <td>{{ user["registration_date"] }}</td>
+            <td>{{ user["registration_time"] }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+
+    <a href="/">← Back to Registration</a>
+</div>
+
+</body>
+</html>
