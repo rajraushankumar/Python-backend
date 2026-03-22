@@ -38,5 +38,45 @@
         "password": "hseheu323",
         "registration_date": "11-02-2026",
         "registration_time": "15:33:41"
+    },
+    {
+        "first_name": "Raunak",
+        "middle_name": "",
+        "last_name": "Rajput",
+        "phone": "91-6536354635",
+        "email": "Aman360@gmail.com",
+        "password": "hsbchadvh",
+        "registration_date": "11-02-2026",
+        "registration_time": "21:05:26"
+    },
+    {
+        "first_name": "Raunak",
+        "middle_name": "",
+        "last_name": "Kumar",
+        "phone": "91-6536354635",
+        "email": "Aman360@gmail.com",
+        "password": "bxjwvbwubwhbw",
+        "registration_date": "16-02-2026",
+        "registration_time": "13:33:24"
+    },
+    {
+        "first_name": "Rajraushan",
+        "middle_name": "",
+        "last_name": "singh",
+        "phone": "09934064327",
+        "email": "rajraushankumar360@gmail.com",
+        "password": "12121212",
+        "registration_date": "18-02-2026",
+        "registration_time": "21:39:00"
+    },
+    {
+        "first_name": "Rajraushan",
+        "middle_name": "",
+        "last_name": "singh",
+        "phone": "09934064327",
+        "email": "rajraushankumar360@gmail.com",
+        "password": "Mlm",
+        "registration_date": "07-03-2026",
+        "registration_time": "19:27:56"
     }
 ]
